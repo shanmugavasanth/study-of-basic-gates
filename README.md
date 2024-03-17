@@ -44,12 +44,12 @@ Y= (A+B)’
 The 'Exclusive-OR' gate is a circuit which will give a high output if either, but not both of its two inputs are high. An encircled plus sign (⊕) is used to show the Ex-OR operation.
 Y= A⊕B
 
-##Ex-NOR gate##
+**Ex-NOR gate**
 
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
 
-##Procedure##
+**Procedure**
 
 1.	Type the program in Quartus software.
 
@@ -62,7 +62,7 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-##PROGRAM##
+**PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
@@ -84,10 +84,20 @@ endmodule
  
 **Logic symbol & Truthtable**
 
+![image 1 logic symbol](https://github.com/shanmugavasanth/study-of-basic-gates/assets/144870621/89da78ca-99ba-474c-a423-cc85a714b707)
+
 **RTL realization Output:** 
 
 **RTL**
 
+![image 2 rtl](https://github.com/shanmugavasanth/study-of-basic-gates/assets/144870621/cfaedac5-0580-4a5b-bbc9-762eb0e1c6a4)
+
+**Output**
+
+![Screenshot 2024-03-17 131846](https://github.com/shanmugavasanth/study-of-basic-gates/assets/144870621/e141c2e2-a16e-4779-816c-ef2602a4cf57)
+
 **Result:**
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+
 
 
