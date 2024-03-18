@@ -94,7 +94,8 @@ endmodule
 
 **Output**
 
-![Screenshot 2024-03-17 131846](https://github.com/shanmugavasanth/study-of-basic-gates/assets/144870621/e141c2e2-a16e-4779-816c-ef2602a4cf57)
+![312371234-8826c4ba-a2ab-45f6-909d-84484dc79a27](https://github.com/shanmugavasanth/study-of-basic-gates/assets/144870621/d95915c0-f24d-4d7e-a8f5-635fe6ec9f7c)
+
 
 **Result:**
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
